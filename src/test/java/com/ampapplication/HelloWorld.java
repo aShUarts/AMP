@@ -6,4 +6,10 @@ public class HelloWorld {
 	{
 		System.out.println("Hello World Dear");
 	}
+	
+	public void displayagain()
+	{
+		System.out.println("Again Hello");
+	}
+
 }
