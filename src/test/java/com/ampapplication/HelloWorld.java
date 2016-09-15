@@ -21,4 +21,9 @@ public class HelloWorld {
 		System.out.println("Bye Hello World");
 		
 	}
+	
+	public static void hello()
+	{
+		System.out.println("Oh lalalalalala");
+	}
 }
