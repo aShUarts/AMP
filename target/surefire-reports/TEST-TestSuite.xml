@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="0.657" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\SERVER"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_101\jre"/>
+    <property name="TITLE" value="Tomcat"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/jenkins/"/>
+    <property name="CATALINA_HOME" value="D:\apache-tomcat"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_101\jre\lib\endorsed"/>
+    <property name="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files (x86)\AutoIt3\AutoItX"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="ASERGIS"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="JAVA_OPTS" value=" &quot;-Djdk.tls.ephemeralDHKeySize=2048&quot; -Djava.util.logging.config.file=&quot;D:\apache-tomcat\conf\logging.properties&quot; -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.8.0_101"/>
+    <property name="JOB_NAME" value="HelloWorld"/>
+    <property name="COMPUTERNAME" value="CHK-PC"/>
+    <property name="EXECUTABLE" value="D:\apache-tomcat\bin\catalina.bat"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="user.name" value="ashutosh.kumar"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 42 Stepping 7, GenuineIntel"/>
+    <property name="GIT_COMMITTER_EMAIL" value="ashutosh00713@gmail.com"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\ashutosh.kumar\AppData\Local"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="BUILD_TAG" value="jenkins-HelloWorld-40"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main D:\apache-maven-3.3.9\ D:\apache-tomcat\webapps\jenkins\WEB-INF\lib\remoting-2.52.jar D:\Apps\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar D:\Apps\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar 52332"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/jenkins/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="4132deca27b8cc7e"/>
+    <property name="=D:" value="D:\apache-tomcat\bin"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_101/bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Java\jdk1.7.0_79\bin;C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe;C:\Program Files\Java\jre-9\lib;C:\Program Files\Java\jdk-9\bin;C:\Program Files\Java\jdk1.8.0_101\bin;C:\Program Files\Java\jre1.8.0_101\bin;C:\Program Files\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_101\bin\javaw.exe;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0\bin;C:\WINDOWS\system32;C:\Program Files (x86)\Skype\Phone\"/>
+    <property name="GIT_COMMIT" value="d90dafe17a8696deac3be7f023395e5368e12553"/>
+    <property name="GIT_COMMITTER_NAME" value="ashuarts"/>
+    <property name="java.io.tmpdir" value="C:\Users\ASHUTO~1.KUM\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\ashutosh.kumar\AppData\Roaming"/>
+    <property name="DEFLOGDIR" value="C:\ProgramData\McAfee\DesktopProtection"/>
+    <property name="user.language" value="en"/>
+    <property name="CATALINA_TMPDIR" value="D:\apache-tomcat\temp"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="BUILD_URL" value="http://localhost:8080/jenkins/job/HelloWorld/40/"/>
+    <property name="ACTION" value="start"/>
+    <property name="M2_HOME" value="D:\apache-maven-3.3.9\"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#40"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CATALINA_BASE" value="D:\apache-tomcat"/>
+    <property name="HUDSON_SERVER_COOKIE" value="4132deca27b8cc7e"/>
+    <property name="JRE_HOME" value="C:\Program Files\Java\jre1.8.0_101"/>
+    <property name="_EXECJAVA" value="start &quot;Tomcat&quot; &quot;C:\Program Files\Java\jre1.8.0_101\bin\java.exe&quot;"/>
+    <property name="_RUNJAVA" value="&quot;C:\Program Files\Java\jre1.8.0_101\bin\java.exe&quot;"/>
+    <property name="MAVEN_HOME" value="D:\apache-maven-3.3.9\"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="D:\Apps\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="LOGGING_CONFIG" value="-Djava.util.logging.config.file=&quot;D:\apache-tomcat\conf\logging.properties&quot;"/>
+    <property name="HOMEPATH" value="\Users\ashutosh.kumar"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="40"/>
+    <property name="maven3.interceptor" value="D:\Apps\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_101\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\apache-maven-3.3.9\/bin;C:\Program Files\Java\jdk1.8.0_101/bin;C:\Program Files\Java\jdk1.8.0_101/bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Java\jdk1.7.0_79\bin;C:\Program Files\Java\jdk1.7.0_79\bin\javaw.exe;C:\Program Files\Java\jre-9\lib;C:\Program Files\Java\jdk-9\bin;C:\Program Files\Java\jdk1.8.0_101\bin;C:\Program Files\Java\jre1.8.0_101\bin;C:\Program Files\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_101\bin\javaw.exe;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0\bin;C:\WINDOWS\system32;C:\Program Files (x86)\Skype\Phone\;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="GIT_AUTHOR_EMAIL" value="ashutosh00713@gmail.com"/>
+    <property name="POM_GROUPID" value="com.ampapplication"/>
+    <property name="POM_ARTIFACTID" value="AMP"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="JSSE_OPTS" value="&quot;-Djdk.tls.ephemeralDHKeySize=2048&quot;"/>
+    <property name="LOGGING_MANAGER" value="-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
+    <property name="_RUNJDB" value="&quot;C:\Program Files\Java\jdk1.8.0_101\bin\jdb.exe&quot;"/>
+    <property name="JOB_URL" value="http://localhost:8080/jenkins/job/HelloWorld/"/>
+    <property name="GIT_HOME" value="C:\Users\ashutosh.kumar\AppData\Local\Programs\Git\bin\git.exe"/>
+    <property name="GIT_PREVIOUS_COMMIT" value="d90dafe17a8696deac3be7f023395e5368e12553"/>
+    <property name="GIT_BRANCH" value="origin/master"/>
+    <property name="MAINCLASS" value="org.apache.catalina.startup.Bootstrap"/>
+    <property name="JENKINS_HOME" value="D:\Apps\Jenkins"/>
+    <property name="BUILD_ID" value="40"/>
+    <property name="TEMP" value="C:\Users\ASHUTO~1.KUM\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_101\jre\bin"/>
+    <property name="M2" value="C:\Program Files\apache-maven-3.3.9\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="2a07"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="VSEDEFLOGDIR" value="C:\ProgramData\McAfee\DesktopProtection"/>
+    <property name="HUDSON_HOME" value="D:\Apps\Jenkins"/>
+    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="d90dafe17a8696deac3be7f023395e5368e12553"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="D:\apache-maven-3.3.9\/bin"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="CURRENT_DIR" value="D:\apache-tomcat\bin"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_101"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\ashutosh.kumar"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\ashutosh.kumar"/>
+    <property name="USERNAME" value="ashutosh.kumar"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="USERDNSDOMAIN" value="ASERGIS.IN"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="E:\AMP"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\ASHUTO~1.KUM\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="25.101-b13"/>
+    <property name="java.class.path" value="D:\Apps\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-agent-1.5.jar;D:\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar;D:\apache-maven-3.3.9/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="MAVEN_OPTS" value="-Xms256m -Xmx512m"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="WORKSPACE" value="D:\Apps\Jenkins\jobs\HelloWorld\workspace"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.8.0_101-b13"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_101\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_101\jre\classes"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_101/bin"/>
+    <property name="user.country" value="US"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="D:\apache-maven-3.3.9"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="GIT_AUTHOR_NAME" value="ashuarts"/>
+    <property name="POM_DISPLAYNAME" value="AMP"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="GIT_URL" value="https://github.com/aShUarts/AMP.git"/>
+  </properties>
+  <testcase name="displaysop" classname="com.ampapplication.Hello" time="0.013"/>
+</testsuite>

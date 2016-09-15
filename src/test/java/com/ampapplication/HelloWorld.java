@@ -1,13 +1,17 @@
 package com.ampapplication;
 
+import org.testng.annotations.Test;
+
 public class HelloWorld {
 
-	public void display()
+	@Test 
+	public static void display()
 	{
 		System.out.println("Hello World Dear");
 	}
 	
-	public void displayagain()
+	@Test
+	public static void displayagain()
 	{
 		System.out.println("Again Hello");
 	}

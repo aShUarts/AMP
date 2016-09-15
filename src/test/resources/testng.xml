@@ -3,7 +3,7 @@
 <suite name="Tests" verbose="5">
   <test name="Test1">
     <classes>
-      <class name="com.ampapplication.HelloWorld"/>
+      <class name="com.ampapplication.Hello"/>
     </classes>
   </test>  
 </suite>
