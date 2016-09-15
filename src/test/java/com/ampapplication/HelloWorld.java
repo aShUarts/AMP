@@ -16,4 +16,9 @@ public class HelloWorld {
 		System.out.println("Again Hello");
 	}
 
+	public void initialize()
+	{
+		System.out.println("Bye Hello World");
+		
+	}
 }
