@@ -26,4 +26,9 @@ public class HelloWorld {
 	{
 		System.out.println("Oh lalalalalala");
 	}
+
+	public static void Sandeep()
+	{
+		System.out.println("Yo Yo Sandy Singh!!!");
+	}
 }

@@ -9,6 +9,6 @@ public class Hello {
 	{
 		HelloWorld.display();
 		HelloWorld.displayagain();
-		
+		HelloWorld.Sandeep();
 	}
 }
