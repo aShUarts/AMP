@@ -31,4 +31,10 @@ public class HelloWorld {
 	{
 		System.out.println("Yo Yo Sandy Singh!!!");
 	}
+	
+	public static void naam()
+	{
+		System.out.println("Fajlu bhaiya zindabad!!!");
+	}
 }
+
