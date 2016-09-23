@@ -36,5 +36,9 @@ public class HelloWorld {
 	{
 		System.out.println("Fajlu bhaiya zindabad!!!");
 	}
+	public static void naame()
+	{
+		System.out.println("Fajlu bhaiya ki Jai!!!");
+	}
 }
 
